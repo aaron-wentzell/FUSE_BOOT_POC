@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.middleware360.FuseWarPocApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.202 sec - in com.middleware360.FuseWarPocApplicationTests
